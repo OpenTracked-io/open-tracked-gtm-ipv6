@@ -3,8 +3,8 @@ documentation: "https://docs.opentracked.io/google-tag-manager"
 versions:
   # Each version is the commit that holds that version of template.tpl. Newest first.
   - sha: f822588c151bdc304f5e87fa50ed51d5f095e51a
-    changeNotes: Own icon with the Open Tracked mark.
+    changeNotes: "Own icon with the Open Tracked mark."
   - sha: ade9246556f1f0f28e02a5a15b41fb584970b0e1
-    changeNotes: Added the gallery categories.
+    changeNotes: "Added the gallery categories."
   - sha: 60fb51e057bc3ff0d8be24808a7c1c741ebf2d95
-    changeNotes: First release. Returns the visitor's address as an IPv6 address: an IPv4 address is written as its IPv6 form, an IPv6 address is kept. Meta and TikTok take it from the event's ip_override.
+    changeNotes: "First release. Returns the visitor's address as an IPv6 address: an IPv4 address is written as its IPv6 form, an IPv6 address is kept. Meta and TikTok take it from the event's ip_override."
