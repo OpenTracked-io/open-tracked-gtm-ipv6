@@ -15,6 +15,10 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Open Tracked IPv6",
   "description": "Returns the visitor's address as an IPv6 address: an IPv4 address is written as its IPv6 form, an IPv6 address is kept. Meta and TikTok take it from the event's ip_override.",
+  "categories": [
+    "UTILITY",
+    "ADVERTISING"
+  ],
   "containerContexts": [
     "SERVER"
   ],
